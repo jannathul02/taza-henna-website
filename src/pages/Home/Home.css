@@ -1,0 +1,39 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  gap: 40px;
+}
+
+.home-left {
+  flex: 1;
+}
+
+.home-right {
+  flex: 1.2;
+  font-family: "Poppins", sans-serif;
+}
+
+.home-banner {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.home-right h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.home-right p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.home-right ul li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}

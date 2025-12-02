@@ -1,0 +1,18 @@
+.footer {
+  background-color: #d2e5e6; /* Same as navbar */
+  color: #141413; /* Golden text */
+  padding: 20px;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+}
+
+.footer a {
+  color: #100f0e;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  color: #c0e0bc; /* Gold hover effect */
+}
