@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taza-henna-website/static/css/main.4a136f40.css",
-    "main.js": "/taza-henna-website/static/js/main.30988c5f.js",
+    "main.js": "/taza-henna-website/static/js/main.6cdceb1b.js",
     "static/js/453.578fed0f.chunk.js": "/taza-henna-website/static/js/453.578fed0f.chunk.js",
     "static/media/hatijahand.jpg": "/taza-henna-website/static/media/hatijahand.7415ddc451ea687679ea.jpg",
     "static/media/hatojahandbow.jpg": "/taza-henna-website/static/media/hatojahandbow.d6ff262d5b2f8974f7ce.jpg",
@@ -12,11 +12,11 @@
     "static/media/taskaleg.jpg": "/taza-henna-website/static/media/taskaleg.e49e96c70a5103021458.jpg",
     "index.html": "/taza-henna-website/index.html",
     "main.4a136f40.css.map": "/taza-henna-website/static/css/main.4a136f40.css.map",
-    "main.30988c5f.js.map": "/taza-henna-website/static/js/main.30988c5f.js.map",
+    "main.6cdceb1b.js.map": "/taza-henna-website/static/js/main.6cdceb1b.js.map",
     "453.578fed0f.chunk.js.map": "/taza-henna-website/static/js/453.578fed0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a136f40.css",
-    "static/js/main.30988c5f.js"
+    "static/js/main.6cdceb1b.js"
   ]
 }
